@@ -1,0 +1,6 @@
+﻿powerxrd
+========
+
+.. automodule:: powerxrd
+
+   
