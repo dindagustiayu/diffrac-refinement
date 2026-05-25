@@ -2,9 +2,8 @@
 
 ## Single plot with emission lines
 
-<div align="center">
+<div align='center'>
     
-<img src= "/results/figures/single plot vs backsub.plot.svg" width ='500'/)
+![](/results/figures/single_plot_vs_backsub_plot.svg)    
 
 </div>
- 
