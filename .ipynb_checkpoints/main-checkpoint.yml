@@ -2,7 +2,7 @@ name: Test Workflow
 
 on:
   push:
-    branches: [ "main" ]   # or whichever branch you use
+    branches: [ "main" ]   # or whichever branch we use
 
 jobs:
   test:
